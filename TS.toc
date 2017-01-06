@@ -1,11 +1,16 @@
 \select@language {polish}
-\contentsline {section}{\numberline {1}Etap 1}{3}{section.1}
-\contentsline {subsection}{\numberline {1.1}Wst\IeC {\k e}p}{3}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Inwentaryzacja zasob\IeC {\'o}w, sprz\IeC {\k e}tu, aplikacji, zasob\IeC {\'o}w ludzkich}{4}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Analiza potrzeb u\IeC {\.z}ytkownik\IeC {\'o}w - wymagania zamawiaj\IeC {\k a}cego}{6}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Za\IeC {\l }o\IeC {\.z}enia projektowe}{10}{subsection.1.4}
-\contentsline {section}{\numberline {2}Etap II}{11}{section.2}
-\contentsline {subsection}{\numberline {2.1}Projekt logiczny sieci wraz z opisem koncepcji rozwi\IeC {\k a}zania i uzasadnienem}{11}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Wyb\IeC {\'o}r urz\IeC {\k a}dze\IeC {\'n} sieciowych}{13}{subsection.2.2}
-\contentsline {section}{\numberline {3}Adresacja IP}{14}{section.3}
-\contentsline {section}{\numberline {4}Projekt konfiguracji urz\IeC {\k a}dze\IeC {\'n}}{16}{section.4}
+\contentsline {section}{\numberline {1}Etap 1}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Wst\IeC {\k e}p}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Inwentaryzacja zasob\IeC {\'o}w, sprz\IeC {\k e}tu, aplikacji, zasob\IeC {\'o}w ludzkich}{5}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Analiza potrzeb u\IeC {\.z}ytkownik\IeC {\'o}w - wymagania zamawiaj\IeC {\k a}cego}{7}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Za\IeC {\l }o\IeC {\.z}enia projektowe}{11}{subsection.1.4}
+\contentsline {section}{\numberline {2}Etap II}{12}{section.2}
+\contentsline {subsection}{\numberline {2.1}Projekt logiczny sieci wraz z opisem koncepcji rozwi\IeC {\k a}zania i uzasadnienem}{12}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Wyb\IeC {\'o}r urz\IeC {\k a}dze\IeC {\'n} sieciowych}{14}{subsection.2.2}
+\contentsline {section}{\numberline {3}Projekt sieci}{15}{section.3}
+\contentsline {subsection}{\numberline {3.1}Adresacja IP}{15}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Projekt konfiguracji urz\IeC {\k a}dze\IeC {\'n}}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Projekt pod\IeC {\l }\IeC {\k a}czenia do Internetu}{20}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Analiza bezpiecze\IeC {\'n}stwa i niezawodno\IeC {\'s}ci sieci}{20}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Kosztorys}{20}{subsection.3.5}
+\contentsline {section}{\numberline {4}Karty katalogowe proponowanych urz\IeC {\k a}dze\IeC {\'n}}{21}{section.4}
