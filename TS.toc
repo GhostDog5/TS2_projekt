@@ -13,11 +13,11 @@
 \contentsline {subsection}{\numberline {3.3}Projekt pod\IeC {\l }\IeC {\k a}czenia do Internetu}{20}{subsection.3.3}
 \contentsline {subsection}{\numberline {3.4}Analiza bezpiecze\IeC {\'n}stwa i niezawodno\IeC {\'s}ci sieci}{20}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}Kosztorys}{20}{subsection.3.5}
-\contentsline {section}{\numberline {4}Karty katalogowe proponowanych urz\IeC {\k a}dze\IeC {\'n}}{22}{section.4}
-\contentsline {subsection}{\numberline {4.1}Prze\IeC {\l }\IeC {\k a}cznik warstwy drugiej}{22}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Prze\IeC {\l }\IeC {\k a}cznik warstwy trzeciej}{23}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Firewall}{24}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Router}{25}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Serwer}{26}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Punkty dost\IeC {\k e}powe}{27}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}UPS}{28}{subsection.4.7}
+\contentsline {section}{\numberline {4}Karty katalogowe proponowanych urz\IeC {\k a}dze\IeC {\'n}}{23}{section.4}
+\contentsline {subsection}{\numberline {4.1}Prze\IeC {\l }\IeC {\k a}cznik warstwy drugiej}{23}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Prze\IeC {\l }\IeC {\k a}cznik warstwy trzeciej}{24}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Firewall}{25}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Router}{26}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Serwer}{27}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Punkty dost\IeC {\k e}powe}{28}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}UPS}{29}{subsection.4.7}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.5)  10 JAN 2017 22:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.5)  10 JAN 2017 23:15
 entering extended mode
 **./TS.tex
 (TS.tex
@@ -1006,128 +1006,128 @@ File: logic.pdf Graphic file (type pdf)
 Package pdftex.def Info: logic.pdf, page1 used on input line 392.
 (pdftex.def)             Requested size: 592.28146pt x 845.51163pt.
  [13 <./logic.pdf>] [14]
-[15] [16] [17] [18] [19] [20]
+[15] [16] [17] [18] [19] [20] [21]
 
 pdfTeX warning: pdflatex.exe (file ./spec/sw2.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<spec/sw2.pdf, id=1198, 614.295pt x 794.97pt>
+<spec/sw2.pdf, id=1209, 614.295pt x 794.97pt>
 File: spec/sw2.pdf Graphic file (type pdf)
  <use spec/sw2.pdf>
-Package pdftex.def Info: spec/sw2.pdf used on input line 719.
+Package pdftex.def Info: spec/sw2.pdf used on input line 724.
 (pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
- [21]
+ [22]
 
 pdfTeX warning: pdflatex.exe (file ./spec/sw3.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<spec/sw3.pdf, id=1210, 614.295pt x 794.97pt>
+<spec/sw3.pdf, id=1214, 614.295pt x 794.97pt>
 File: spec/sw3.pdf Graphic file (type pdf)
  <use spec/sw3.pdf>
-Package pdftex.def Info: spec/sw3.pdf used on input line 726.
+Package pdftex.def Info: spec/sw3.pdf used on input line 731.
 (pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
- [22 <./spec/sw2.pdf>]
+ [23 <./spec/sw2.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./spec/firewall.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<spec/firewall.pdf, id=1241, 614.295pt x 794.97pt>
+<spec/firewall.pdf, id=1245, 614.295pt x 794.97pt>
 File: spec/firewall.pdf Graphic file (type pdf)
  <use spec/firewall.pdf>
-Package pdftex.def Info: spec/firewall.pdf used on input line 733.
+Package pdftex.def Info: spec/firewall.pdf used on input line 738.
 (pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
 
-[23 <./spec/sw3.pdf>]
+[24 <./spec/sw3.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./spec/router.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<spec/router.pdf, id=1266, 614.295pt x 794.97pt>
+<spec/router.pdf, id=1270, 614.295pt x 794.97pt>
 File: spec/router.pdf Graphic file (type pdf)
  <use spec/router.pdf>
-Package pdftex.def Info: spec/router.pdf used on input line 740.
+Package pdftex.def Info: spec/router.pdf used on input line 745.
 (pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
- [24 <./spec/firewall.pdf>]
+ [25 <./spec/firewall.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./spec/serwer.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<spec/serwer.pdf, id=1286, 614.295pt x 794.97pt>
+<spec/serwer.pdf, id=1291, 614.295pt x 794.97pt>
 File: spec/serwer.pdf Graphic file (type pdf)
  <use spec/serwer.pdf>
-Package pdftex.def Info: spec/serwer.pdf used on input line 747.
+Package pdftex.def Info: spec/serwer.pdf used on input line 752.
 (pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
- [25 <./spec/router.pdf>]
+ [26 <./spec/router.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./spec/access.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<spec/access.pdf, id=1317, 614.295pt x 794.97pt>
+<spec/access.pdf, id=1321, 614.295pt x 794.97pt>
 File: spec/access.pdf Graphic file (type pdf)
  <use spec/access.pdf>
-Package pdftex.def Info: spec/access.pdf used on input line 754.
+Package pdftex.def Info: spec/access.pdf used on input line 759.
 (pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
- [26 <./spec/serwer.pdf>]
+ [27 <./spec/serwer.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./spec/ups.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<spec/ups.pdf, id=1345, 597.23125pt x 845.1575pt>
+<spec/ups.pdf, id=1349, 597.23125pt x 845.1575pt>
 File: spec/ups.pdf Graphic file (type pdf)
  <use spec/ups.pdf>
-Package pdftex.def Info: spec/ups.pdf used on input line 761.
+Package pdftex.def Info: spec/ups.pdf used on input line 766.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
- [27 <./spec/access.pdf>]
-LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 767
+ [28 <./spec/access.pdf>]
+LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 772
 .
 
 (C:\Users\suszk\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\ot4cmtt.fd
 File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-Overfull \hbox (44.77016pt too wide) in paragraph at lines 765--768
+Overfull \hbox (44.77016pt too wide) in paragraph at lines 770--773
 []$\OT4/cmtt/m/n/12 http : / / www . cisco . com / c / en / us / products / col
 lateral / switches / small-[]business-[]200-[]series-[]smart-[]switches /
  []
 
-[28 <./spec/ups.pdf>]
-Overfull \hbox (6.72014pt too wide) in paragraph at lines 769--771
+[29 <./spec/ups.pdf>]
+Overfull \hbox (6.72014pt too wide) in paragraph at lines 774--776
 []$\OT4/cmtt/m/n/12 http : / / www . cisco . com / c / en / us / products / col
 lateral / switches / small-[]business-[]smart-[]switches / data _
  []
 
 
-Overfull \hbox (7.22014pt too wide) in paragraph at lines 772--774
+Overfull \hbox (7.22014pt too wide) in paragraph at lines 777--779
 []$\OT4/cmtt/m/n/12 http : / / www . cisco . com / c / en / us / support / secu
 rity / asa-[]5505-[]adaptive-[]security-[]appliance / model . html$[] 
  []
 
 
-Overfull \hbox (126.0452pt too wide) in paragraph at lines 775--777
+Overfull \hbox (126.0452pt too wide) in paragraph at lines 780--782
 []$\OT4/cmtt/m/n/12 http : / / www . cisco . com / c / en / us / products / col
 lateral / routers / rv325-[]dual-[]gigabit-[]wan-[]vpn-[]router / datasheet-[]c
 78-[]729726 .
  []
 
 
-Overfull \hbox (18.57014pt too wide) in paragraph at lines 778--780
+Overfull \hbox (18.57014pt too wide) in paragraph at lines 783--785
 []$\OT4/cmtt/m/n/12 http : / / i . dell . com / sites / doccontent / shared-[]c
 ontent / data-[]sheets / en / Documents / Dell _ PowerEdge _ T130 _
  []
 
 
-Overfull \hbox (25.74515pt too wide) in paragraph at lines 781--783
+Overfull \hbox (25.74515pt too wide) in paragraph at lines 786--788
 []$\OT4/cmtt/m/n/12 http : / / www . cisco . com / c / en / us / products / col
 lateral / wireless / small-[]business-[]wireless-[]access-[]points /
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 790.
-[29]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 790.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 795.
+[30]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 795.
  (TS.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 790.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 790.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 795.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 795.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 790.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 795.
  ) 
 Here is how much of TeX's memory you used:
- 8402 strings out of 493333
- 119431 string characters out of 3138789
+ 8403 strings out of 493333
+ 119438 string characters out of 3138789
  251475 words of memory out of 3000000
  11666 multiletter control sequences out of 15000+200000
  12371 words of font info for 36 fonts, out of 3000000 for 9000
@@ -1149,9 +1149,9 @@ c/pl/plr17.pfb><C:/Users/suszk/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl
 10.pfb><C:/Users/suszk/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plti12.
 pfb><C:/Users/suszk/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/pltt12.pfb
 >
-Output written on TS.pdf (29 pages, 1575520 bytes).
+Output written on TS.pdf (30 pages, 1576986 bytes).
 PDF statistics:
- 1542 PDF objects out of 1728 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
+ 1546 PDF objects out of 1728 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
